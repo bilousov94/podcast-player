@@ -1,3 +1,18 @@
+# FROM DEVELOPER
+In order to run this project locally run next commandes in following order
+```
+    npm install
+    npm start
+```
+After that you can navigate in browser to `http://localhost:1337`
+
+For playing an audio, you need to select at least one podcast from list.
+After that you can hit play and it will play.
+
+IMPORTATNT:  You won't be able seek forward/back (jump ahead or back five seconds)
+and to jump to a chosen point in the timeline if currently playing marker with type `ad`
+
+
 # Assignment
 
 The task is to build a simple podcast player.

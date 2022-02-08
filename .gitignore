@@ -2,3 +2,4 @@
 podblaster.iml
 node_modules/
 public/bundles
+.DS_Store
