@@ -1,0 +1,17 @@
+{
+  "owner": "Frontend Community",
+  "status": "active",
+  "assets": [
+    {
+      "maintainer": "Frontend Community",
+      "type": "n/a",
+      "name": "recruitment-assignment-frontend",
+      "labels": "",
+      "description": "Home assignment for software engineer/frontend candidates.",
+      "gdpr": false,
+      "gitc": false,
+      "onCall": false,
+      "lifeCycle": "n/a"
+    }
+  ]
+}
